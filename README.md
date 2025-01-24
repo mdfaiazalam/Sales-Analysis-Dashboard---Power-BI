@@ -7,6 +7,7 @@ This dashboard provides an in-depth analysis of sales performance across various
  
 ## Tool Used:
 *  Microsoft Power BI
+*  Power Query Editor
 
 ## Objectives
 The primary objectives of the dashboard are:
